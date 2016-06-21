@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherDemo</string>
+    <string name="btn_get_weather">获取天气信息</string>
+</resources>
